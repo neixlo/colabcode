@@ -11,7 +11,7 @@ except ImportError:
 
 
 EXTENSIONS = ["ms-python.python", "ms-toolsai.jupyter"]
-CODESERVER_VERSION = "3.8.0"
+CODESERVER_VERSION = "vscode-1.52.1" #"3.8.0"
 
 
 class ColabCode:
